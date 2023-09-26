@@ -1,5 +1,5 @@
 # ImageAnalysis
-A Python project that was developed as a university assignment for the subject of "Software Technology".
+A Python project that was developed as a university assignment for the subject of "Image Analysis".
 
 The goal of this computational task was to develop graph-theoretic algorithms for content-based image retrieval. The basic steps of the proposed algorithmic approach are as follows:
 1. Rank Normalization
